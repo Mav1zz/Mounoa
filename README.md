@@ -18,15 +18,16 @@ Mounoa Projesi bir Toplu Windows Toolkit'dir
 # Kurulum 🔨
 > [Buradan](example.com) gidip indirebilirsin. :D
 
-> Şimdilik `Windows` tabanlı sistemlerde çalışır.
+Şimdilik `Windows` tabanlı sistemlerde çalışır.
 
-> Proje `Python` dilinde yazılmıştır. (açık kaynaklı :D)
+Proje `Python` dilinde yazılmıştır. (açık kaynaklı :D)
 
-> PROJE TAM 1 YILDIR YAPMAYA ÇALIŞIYORUM (üşengecim :D)
+PROJE TAM 1 YILDIR YAPMAYA ÇALIŞIYORUM (üşengecim :D)
 
 # Yapımcılar:
-  ▪ ᴍᴀᴠɪᴢ: (Kod,Tasarım,Fikir)
+>  ▪ ᴍᴀᴠɪᴢ: (Kod,Tasarım,Fikir)
 
-►► Ek Yapımcılar:
-  ▪ ᴄʜʀɪꜱᴛɪᴛᴜꜱᴛᴇᴄʜ: (Winutil)
-  ▪ ꜰᴜʀʏ999ɪᴏ: (CCTV)
+## Ek Yapımcılar:
+>  ▪ ᴄʜʀɪꜱᴛɪᴛᴜꜱᴛᴇᴄʜ: (Winutil)
+
+>  ▪ ꜰᴜʀʏ999ɪᴏ: (CCTV)
