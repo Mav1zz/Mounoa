@@ -1,6 +1,6 @@
 <div align="center">
   
-![Mounoa](imgs/Logo.png)
+![Mounoa](imgs/logo.png)
 
 # Mounoa <br>
 
